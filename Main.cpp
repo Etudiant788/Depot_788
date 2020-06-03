@@ -19,6 +19,8 @@ void displayReadings(std::vector<std::unique_ptr<Sensor>> const& sensors) {
 
 int main() {
 
+  //COLLAB_EDIT
+
   std::vector<std::unique_ptr<Sensor>> sensors;
   init(sensors);
 
