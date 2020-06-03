@@ -1,0 +1,5 @@
+- Définition et distribution des tâches
+
+- Implémentation du code
+
+- Départage de rédaction du rapport
