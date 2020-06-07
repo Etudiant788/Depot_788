@@ -1,3 +1,5 @@
+Removed user.name and user.email
+
 - Définition et distribution des tâches
 
 - Implémentation du code
