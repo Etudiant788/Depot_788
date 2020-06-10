@@ -4,7 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # My own untrackees
-.vs/
 Debug/
 
 # User-specific files
