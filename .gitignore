@@ -1,9 +1,6 @@
-Dummy.txt
-Dummy_1.txt
-Dummy_2.txt
 .vs/
-Debug
-TODO.txt
-Rapport.docx
+Debug/
+./TODO.txt
+./Rapport.docx
 *.vcxproj
 
