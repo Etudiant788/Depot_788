@@ -8,11 +8,14 @@
 ·      Présenter le travail collaboratif.
  
 
-Ajouter les éléments suivants :
+- Ajouter les éléments suivants :
 
-    Comment effacer un dépôt – les étudiants feront probablement cela à la fin de mon cours;
-    Comment utiliser le dépôt de quelqu’un d’autre qui n’est pas un collaborateur;
-    Comment gérer les versions;
-    Comment défaire le dernier commit;
-    Comment défaire le dernier push;
-    Comment faire le branching.
+-    Comment désassocier des fichiers: .gitignore and git rm --cached /-r /dirOrFile   // Unhide files/dirs during procedure
+-    Comment rendre un dépôt publique ou privé	
+-    Comment effacer un dépôt;
+-    Comment utiliser le dépôt de quelqu’un d’autre qui n’est pas un collaborateur;
+-    Comment gérer les versions;
+-    Comment défaire le dernier commit;
+-    Comment défaire le dernier push;
+-    Comment faire le branching.
+
