@@ -1,0 +1,21 @@
+·      Présenter le projet qui sera déposé dans le dépôt.
+       Inclure des documents autres que le code source. Par exemple, des images et des PDF.
+
+·      Présenter le GitHub et son utilisation
+
+·      Présenter Git, son utilisation et l’association avec GitHub.
+
+·      Présenter le travail collaboratif.
+ 
+
+- Ajouter les éléments suivants :
+
+-    Comment désassocier des fichiers: .gitignore and git rm --cached /-r /dirOrFile   // Unhide files/dirs during procedure
+-    Comment rendre un dépôt publique ou privé	
+-    Comment effacer un dépôt;
+-    Comment utiliser le dépôt de quelqu’un d’autre qui n’est pas un collaborateur;
+-    Comment gérer les versions;
+-    Comment défaire le dernier commit;
+-    Comment défaire le dernier push;
+-    Comment faire le branching.
+
