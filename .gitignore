@@ -1,7 +1,9 @@
+#Fichiers locaux
 TODO.txt
 Rapport.docx
+
+#Dossiers et fichiers Visual Studio
 *.vcxproj.*
 *.vcxproj
-
 .vs/
 Debug/
