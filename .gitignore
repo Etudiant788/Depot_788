@@ -1,6 +1,6 @@
 TODO.txt
 Rapport.docx
-*.vcxproj
+*.vcxproj.*
 
 .vs/
 Debug/
