@@ -1,5 +1,5 @@
-Debug/
-./TODO.txt
-./Rapport.docx
+TODO.txt
+Rapport.docx
 *.vcxproj
-
+.vs/
+Debug/
